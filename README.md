@@ -1,5 +1,7 @@
 # robot-vue
 
+这是一个利用Vuex做的奶茶店点餐的demo
+
 ## Project setup
 ```
 npm install
